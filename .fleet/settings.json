@@ -1,0 +1,13 @@
+{
+    "backend.maxHeapSizeMb": 1487,
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.tailwindcss"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.intellij"
+        }
+    ]
+}
